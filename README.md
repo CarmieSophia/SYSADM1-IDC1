@@ -1,8 +1,8 @@
-THIS REPOSITORY IS DEDICATED FOR ACTIVITIES IN SYSADM1 (1ST SEMESTER, A.Y. 2024-2025)
+This Repository is a compilation of my activities in SYSADM1 (1st Semester, A.Y. 2024-2025)
 
-STUDENT: OLIVAS, CARMIE SOPHIA M.
-ID NUMBER: 20163292
-SUBJECT: SYSTEMS ADMINISTRATION I
-SECTION: IDC1
-REPOSITORY LINK: https://github.com/CarmieSophia/SYSADM1-IDC1.git
+Student: Olivas, Carmie Sophia N.
+Id Number: 20163292
+Subject: Systems Administration I
+Section: IDC1
+Repository Link: https://github.com/CarmieSophia/SYSADM1-IDC1.git
 
