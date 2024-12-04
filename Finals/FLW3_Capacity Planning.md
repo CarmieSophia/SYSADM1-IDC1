@@ -1,38 +1,25 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 9cd268d27e3f47da9dc851aec016c912 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+==================================+========================+==========+
-| NAME:                            | DATE PERFORMED: **26   | /50      |
-|                                  | NOV 2024**             |          |
-| **BUSONGAN, DEMIRAYE-ANNE**      |                        |          |
-|                                  |                        |          |
-| **OLIVAS, CARMIE SOPHIA N.**     |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: **IDC1**                | DATE SUBMITTED: **26   |          |
-|                                  | NOV 2024**             |          |
-+----------------------------------+------------------------+----------+
+
+![image](https://github.com/user-attachments/assets/2c75b347-c0a2-44d4-bc1d-030b3e01919c)
+
+
 
 # SYSADM1 -- CAPACITY MANAGEMENT & PLANNING
 
-## Part 1. A Simulated Dataset for Capacity Planning Exercise {#part-1.-a-simulated-dataset-for-capacity-planning-exercise .list-paragraph}
+### Part 1. A Simulated Dataset for Capacity Planning Exercise
 
-![](vertopal_9cd268d27e3f47da9dc851aec016c912/media/image2.png){width="4.416666666666667in"
-height="2.3055555555555554in"}**Scenario:** A mid-sized e-commerce
+![image](https://github.com/user-attachments/assets/8fc3415c-9c85-45ed-abc9-9badf69d19ed)
+
+**Scenario:** A mid-sized e-commerce
 website is expecting a significant surge in traffic due to an upcoming
 holiday sale.
 
-### **[Projected Traffic Increase]{.underline}**
+**Projected Traffic Increase**
 
 -   Expected Peak Traffic: **5x the normal peak traffic**
 
 -   Peak Time: **12:00 PM - 3:00 PM on the sale day**
 
-### **[System Specifications]{.underline}**
+**System Specifications**
 
 -   Server Count: **5**
 
@@ -42,7 +29,7 @@ holiday sale.
 
 -   Network Bandwidth per Server: **1Gbps**
 
-### **[Additional Considerations]{.underline}**
+**Additional Considerations**
 
 -   New Product Launch: **A highly anticipated product will be released
     during the sale.**
@@ -67,133 +54,23 @@ holiday sale.
 -   Inefficient Handling of New Product Launch: High interest in the
     anticipated product may lead to traffic spikes beyond expectations.
 
-2.  Brainstorm possible solutions to address the identified bottlenecks.
+**2.  Brainstorm possible solutions to address the identified bottlenecks.
     Propose potential solutions considering hardware and software-based
-    solutions.
+    solutions.**
 
-3.  Discuss the pros and cons of each proposed solution by filling out
-    the table below.
+**3.  Discuss the pros and cons of each proposed solution by filling out
+    the table below.**
 
-+---------+---------+----------+------------+------------+------------+
-| **P     | *       | **CONS** | *          | **CO       | *          |
-| ROPOSED | *PROS** |          | *ESTIMATED | MPLEXITY** | *POTENTIAL |
-| SOL     |         |          | COST       |            | IMPACT ON  |
-| UTION** |         |          | (USD)**    |            | SYSTEM     |
-|         |         |          |            |            | PER        |
-|         |         |          |            |            | FORMANCE** |
-+=========+=========+==========+============+============+============+
-| **Add   | In      | High     | ₱280,000   | Medium:    | S          |
-| More    | creases | upfront  | --₱840,000 | Requires   | ignificant |
-| Se      | c       | cost.    | per server | pr         | i          |
-| rvers** | apacity |          |            | ocurement, | mprovement |
-|         | for     | Setup    |            | ins        | in         |
-|         | t       | and      |            | tallation, | handling   |
-|         | raffic. | de       |            | and        | traffic    |
-|         |         | ployment |            | con        | spikes but |
-|         | S       | may take |            | figuration | may not    |
-|         | calable | time.    |            | of         | address    |
-|         | for     |          |            | additional | bandwidth  |
-|         | future  |          |            | servers.   | l          |
-|         | growth. |          |            |            | imitations |
-|         |         |          |            |            | ef         |
-|         |         |          |            |            | fectively. |
-+---------+---------+----------+------------+------------+------------+
-| *       | F       | Requires | ₱56        | High:      | D          |
-| *Enable | lexible | initial  | ,000--₱168 | Involves   | ynamically |
-| Auto-   | and     | setup    | ,000/month | c          | adapts to  |
-| Scaling | c       | and      | (us        | onfiguring | traffic    |
-| in      | ost-eff | testing. | age-based) | au         | needs,     |
-| Cloud** | icient. |          |            | to-scaling | ensuring   |
-|         |         | De       |            | rules,     | minimal    |
-|         | Quickly | pendency |            | monitoring | downtime,  |
-|         | adjusts | on cloud |            | tools, and | and        |
-|         | to      | p        |            | ensuring   | handles    |
-|         | demand. | rovider. |            | cloud      | unexpected |
-|         |         |          |            | platform   | spikes     |
-|         |         |          |            | comp       | ef         |
-|         |         |          |            | atibility. | ficiently. |
-+---------+---------+----------+------------+------------+------------+
-| **O     | Cost-ef | Limited  | ₱28,00     | Low:       | Minor      |
-| ptimize | fective | imp      | 0--₱56,000 | Simple     | im         |
-| Current | so      | rovement | (software  | tasks like | provements |
-| Se      | lution. | c        | updates    | tweaking   | through    |
-| rvers** |         | apacity. | /upgrades) | server     | load       |
-|         | Uses    |          |            | settings,  | balancing, |
-|         | e       | Might    |            | installing | cache      |
-|         | xisting | not      |            | updates,   | opt        |
-|         | res     | fully    |            | or adding  | imization, |
-|         | ources. | handle   |            | small      | and        |
-|         |         | 5x       |            | hardware   | upgrading  |
-|         |         | traffic. |            | upgrades.  | specific   |
-|         |         |          |            |            | hardware   |
-|         |         |          |            |            | c          |
-|         |         |          |            |            | omponents. |
-+---------+---------+----------+------------+------------+------------+
-| **Im    | O       | Costs    | ₱28        | Medium:    | Improves   |
-| plement | ffloads | for CDN  | ,000--₱280 | Requires   | website    |
-| a CDN   | traffic | s        | ,000/month | i          | speed and  |
-| (       | from    | ervices. |            | ntegrating | reduces    |
-| Content | origin  |          |            | the CDN    | load on    |
-| D       | s       | Requires |            | with the   | servers by |
-| elivery | ervers. | int      |            | website    | caching    |
-| Net     |         | egration |            | and        | content    |
-| work)** | Reduces | and      |            | c          | closer to  |
-|         | l       | config   |            | onfiguring | users.     |
-|         | atency. | uration. |            | caching    |            |
-|         |         |          |            | rules.     |            |
-+---------+---------+----------+------------+------------+------------+
-| **In    | P       | Does not | ₱56        | Medium:    | Protects   |
-| troduce | rotects | address  | ,000--₱168 | Involves   | system     |
-| WAF     | against | per      | ,000/month | setting up | integrity, |
-| (Web    | DDoS    | formance |            | the WAF,   | ensuring   |
-| Appl    | and     | issues.  |            | defining   | legitimate |
-| ication | other   |          |            | security   | traffic    |
-| Fire    | t       | Requires |            | rules, and | flows      |
-| wall)** | hreats. | mo       |            | ongoing    | smoothly   |
-|         |         | nitoring |            | ma         | while      |
-|         | E       | and      |            | intenance. | blocking   |
-|         | nhances | updates. |            |            | malicious  |
-|         | se      |          |            |            | request    |
-|         | curity. |          |            |            |            |
-+---------+---------+----------+------------+------------+------------+
+![image](https://github.com/user-attachments/assets/b56bc7a7-fc68-46ac-a91a-78ca778da90a)
+
 
 **Grading Rubric:**
 
-  -------------------------------------------------------------------------------
-  Criteria           Excellent \| 10pts Good \| 7pts        Needs Improvement \|
-                                                            4pts
-  ------------------ ------------------ ------------------- ---------------------
-  **Problem          Accurately         Identifies the main Identifies a problem
-  Identification**   identifies the     problem and         but lacks clarity or
-                     primary problem    provides a basic    accuracy.
-                     and provides a     explanation.        
-                     detailed                               
-                     explanation.                           
+![image](https://github.com/user-attachments/assets/5537ba8b-add3-480f-a4be-be19ff9bcf58)
 
-  **Solution         Proposes multiple  Proposes one or two Proposes a solution
-  Proposal**         relevant solutions relevant solutions  but lacks feasibility
-                     and provides       but lacks detailed  or relevance.
-                     detailed           explanation.        
-                     explanations,                          
-                     including                              
-                     potential                              
-                     drawbacks and                          
-                     benefits.                              
 
-  **Evaluation of    Provides a         Provides a basic    Does not evaluate the
-  Solutions**        thorough           evaluation of the   proposed solutions or
-                     evaluation of the  proposed solutions, provides a
-                     proposed           but lacks depth.    superficial
-                     solutions,                             evaluation.
-                     considering                            
-                     factors like cost,                     
-                     complexity, and                        
-                     potential impact.                      
 
-  Score:                                                    /30
-  -------------------------------------------------------------------------------
-
-**Part 2. Network Scalability Analysis**
+### Part 2. Network Scalability Analysis
 
 Recall the e-commerce website scenario we discussed earlier. Given the
 expected surge in traffic, analyze the provided network topology
@@ -203,8 +80,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_9cd268d27e3f47da9dc851aec016c912/media/image3.webp){width="4.666666666666667in"
-height="3.740972222222222in"}
+![image](https://github.com/user-attachments/assets/48c05018-1ac7-447c-8dc5-b3d1e6765ed5)
+
 
 **NETWORK ANALYSIS**
 
@@ -236,6 +113,7 @@ height="3.740972222222222in"}
 
 -   The core switch\'s throughput and port capacity might be inadequate
     if the network grows significantly.
+    
 
 **SCALABILITY PLANNING**
 
@@ -274,6 +152,7 @@ height="3.740972222222222in"}
 
 -   Evaluate cloud-hosted solutions for server scalability if physical
     server expansion becomes impractical.
+    
 
 **EVALUATION OF SOLUTIONS**
 
@@ -314,11 +193,11 @@ height="3.740972222222222in"}
     that all devices work cohesively to provide optimal performance and
     failover.
 
+
 **PROPOSED DESIGN**
 
-**\
-**![](vertopal_9cd268d27e3f47da9dc851aec016c912/media/image4.png){width="5.166666666666667in"
-height="6.570138888888889in"}
+![image](https://github.com/user-attachments/assets/96bbc6b3-e2cc-4c0b-857d-e97510688768)
+
 
 #### 
 
@@ -372,70 +251,8 @@ height="6.570138888888889in"}
 
 -   10Gbps uplinks between switches.
 
-> The proposed design includes the addition of two ISPs to ensure
-> greater reliability and redundancy for internet connectivity. This
-> dual-ISP setup lessens the risk of a single point of failure,
-> providing continuous internet access even if one ISP encounters
-> issues. Redundancy is also implemented across all critical devices,
-> including two core switches and two edge routers. This redundant
-> design ensures high availability and fault tolerance which prevents
-> network downtime in case of device failure. By incorporating these
-> redundant elements, the network is made more robust, maintaining
-> service continuity and improving overall network reliability.
+The proposed design includes the addition of two ISPs to ensure greater reliability and redundancy for internet connectivity. This dual-ISP setup lessens the risk of a single point of failure, providing continuous internet access even if one ISP encounters issues. Redundancy is also implemented across all critical devices, including two core switches and two edge routers. This redundant design ensures high availability and fault tolerance which prevents network downtime in case of device failure. By incorporating these redundant elements, the network is made more robust, maintaining service continuity and improving overall network reliability. 
 
-  ------------------------------------------------------------------------------
-  Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
-                                                           4pts
-  ----------------- ------------------ ------------------- ---------------------
-  **Network         Accurately         Identifies key      Identifies some basic
-  Analysis**        identifies         network components  network components
-                    potential          and some potential  but lacks a
-                    bottlenecks,       bottlenecks.        comprehensive
-                    security risks,                        analysis.
-                    and capacity                           
-                    limitations.                           
+                  
+![image](https://github.com/user-attachments/assets/aa87f5c0-96a3-4ea4-a749-d0d2766c9d2e)
 
-  **Scalability     Proposes multiple  Proposes some       Proposes limited
-  Planning**        relevant solutions relevant            scalability
-                    and provides       scalability         strategies.
-                    detailed           strategies but      
-                    explanations,      lacks detail.       
-                    including                              
-                    potential                              
-                    drawbacks and                          
-                    benefits.                              
-
-  **Evaluation of   Proposes           Provides a basic    Does not evaluate the
-  Solutions**       comprehensive      evaluation of the   proposed solutions or
-                    scalability        proposed solutions, provides a
-                    strategies,        but lacks depth.    superficial
-                    including specific                     evaluation.
-                    recommendations                        
-                    for hardware                           
-                    upgrades, software                     
-                    configurations,                        
-                    and network                            
-                    optimizations.                         
-
-  **Proposed        Provides a         Provides a basic    Does not provide a
-  Design**          detailed and       design but lacks    clear and detailed
-                    well-justified     specific details    design.
-                    design, including  and justifications. 
-                    network diagrams,                      
-                    configuration                          
-                    details, and                           
-                    implementation                         
-                    plans.                                 
-
-  **Evaluation and  Provides a         Provides a basic    Does not evaluate the
-  Justification**   thorough           evaluation of the   proposed solutions or
-                    evaluation of the  proposed solutions, provides a
-                    proposed           but lacks depth.    superficial
-                    solutions,                             evaluation
-                    considering                            
-                    factors like cost,                     
-                    complexity, and                        
-                    potential impact.                      
-
-  Score:                                                   /50
-  ------------------------------------------------------------------------------
