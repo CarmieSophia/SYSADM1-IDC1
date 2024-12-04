@@ -114,16 +114,16 @@ decision-making?**
 
   -----------------------------------------------------------------------
 
-Reflecting on your personal growth, what new knowledge, skills, or
-perspectives did you gain from this course?
+**Reflecting on your personal growth, what new knowledge, skills, or
+perspectives did you gain from this course?**
 
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
-How do you plan to apply what you have learned in this course to your
+**How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
-
+**
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
