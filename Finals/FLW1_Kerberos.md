@@ -1,18 +1,4 @@
-+--------------------------------+--------------------------+----------+
-| ![](vertopal_4ece              |                          |          |
-| df6db8d94f5e8e82bc152ecd0bfa/m |                          |          |
-| edia/image1.png){width="2.4in" |                          |          |
-| height="0.5881944444444445in"} |                          |          |
-|                                |                          |          |
-| SCHOOL OF INFORMATION AND      |                          |          |
-| TECHNOLOGY                     |                          |          |
-+--------------------------------+--------------------------+----------+
-| NAME: **OLIVAS, CARMIE SOPHIA  | DATE PERFORMED: **06 NOV | /50      |
-| N.**                           | 2024**                   |          |
-+--------------------------------+--------------------------+----------+
-| Section: **IDC1**              | DATE SUBMITTED: **06 NOV |          |
-|                                | 2024**                   |          |
-+--------------------------------+--------------------------+----------+
+![image](https://github.com/user-attachments/assets/042e5871-de8a-4e75-9937-f56164f72b9d)
 
 # SYSADM1 -- Kerberos Basics
 
@@ -34,23 +20,8 @@ Research Activity
 
 2.  **What are the main components of Kerberos?**
 
-  -----------------------------------------------------------------------
-  KERBEROS COMPONENTS              DESCRIPTION
-  -------------------------------- --------------------------------------
-  Key Distribution Center (KDC)    Manages and authenticates the keys for
-                                   clients and services.
+![image](https://github.com/user-attachments/assets/c340878f-4191-475f-9432-a74c80ddb135)
 
-  Authentication Server (AS)       Provides the intial authentication and
-                                   issues Ticket Granting Tickets (TGT)
-                                   to the users.
-
-  Ticket Granting Server (TGS)     Issues the tickets to access specific
-                                   services based on the TGT.
-
-  Client and Service               The user (client) who needs the access
-                                   and resources while (service) the user
-                                   wants to access.
-  -----------------------------------------------------------------------
 
 3.  What is a \"ticket\" in Kerberos, and why is it important?
 
@@ -109,26 +80,14 @@ Research Activity
 -   The TGS issues a service ticket, which the client then uses to
     access the service.
 
-> ![](vertopal_4ecedf6db8d94f5e8e82bc152ecd0bfa/media/image2.png){width="5.322916666666667in"
-> height="3.78125in"}
+> ![image](https://github.com/user-attachments/assets/dad2b2ee-a1bd-4df1-a679-536f399d890a)
+
 
 6.  What does each component (KDC, TGS, AS) contribute to the
     authentication process?
 
-  -----------------------------------------------------------------------
-  COMPONENTS                DESCRIPTION
-  ------------------------- ---------------------------------------------
-  Key Distribution Center   Central authority managing user and service
-  (KDC)                     keys, facilitating the issuance of tickets.
+> ![image](https://github.com/user-attachments/assets/080eefc8-85b6-475e-92cb-3569da7075b0)
 
-  Authentication Server     Verifies the initial user login and issues
-  (AS)                      the TGT, marking the user as authenticated
-                            within the Kerberos realm.
-
-  Ticket Granting Server    Issues service tickets based on the TGT,
-  (TGS)                     enabling users to access network services
-                            without re-authenticating.
-  -----------------------------------------------------------------------
 
 7.  How does a ticket improve security compared to repeated password
     logins?
@@ -158,7 +117,8 @@ On how to Improve Security is:
 -   **Centralized Authentication Control:** The Key Distribution Center
     (KDC) manages the issuance and validation of tickets
 
-REFERENCES:
+
+**REFERENCES:**
 
 *Kerberos Terminology*. (n.d.).
 <https://web.mit.edu/kerberos/kfw-4.1/kfw-4.1/kfw-4.1-help/html/kerberos_terminology.htm#:~:text=Kerberos%20realms%20are%20a%20way,Windows%2C%20realms%20are%20called%20domains>.
