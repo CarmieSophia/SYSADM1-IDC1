@@ -1,28 +1,15 @@
-+---------------------------------+-------------------------+----------+
-| ![](vertopal_82                 |                         |          |
-| 8044559d4e4015bbb088534be39bf5/ |                         |          |
-| media/image1.png){width="2.4in" |                         |          |
-| height="0.5881944444444445in"}  |                         |          |
-|                                 |                         |          |
-| SCHOOL OF INFORMATION AND       |                         |          |
-| TECHNOLOGY                      |                         |          |
-+---------------------------------+-------------------------+----------+
-| NAME: OLIVAS, CARMIE SOPHIA N.  | DATE PERFORMED: 21 AUG  |          |
-|                                 | 2024                    |          |
-+---------------------------------+-------------------------+----------+
-| Section: IDC1                   | DATE SUBMITTED: 21 AUG  |          |
-|                                 | 2024                    |          |
-+---------------------------------+-------------------------+----------+
+![image](https://github.com/user-attachments/assets/9311a465-735f-4827-a380-4313f01e4ba6)
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
-# Requirement: 
+## Requirement: 
 
 -   A virtual machine running Linux and Windows OS
 
 # Instructions:  {#instructions .list-paragraph}
 
-**Part A: Windows File System**
+### **Part A: Windows File System**
 
 1.  **Open File Explorer:** Click the File Explorer icon on your desktop
     or press the Windows key + E.
@@ -106,5 +93,8 @@
 16. **Extract an archive:** Create a new folder, then extract the
     created archive into it.
 
-![](vertopal_828044559d4e4015bbb088534be39bf5/media/image2.png){width="8.117455161854767in"
-height="4.739583333333333in"}Part B. Create a log report structure
+### Part B. Create a log report structure
+![image](https://github.com/user-attachments/assets/17cd8ef2-ee38-4abc-8e17-932a94a1db3f)
+
+
+
