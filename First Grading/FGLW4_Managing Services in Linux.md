@@ -1,27 +1,12 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 2f16a6e27ead41fbbf2f2fe65d4f390d |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: **OLIVAS, CARMIE SOPHIA    | DATE PERFORMED: **11   |          |
-| N.**                             | SEPT 2024**            |          |
-+----------------------------------+------------------------+----------+
-| Section: **IDC1**                | DATE SUBMITTED: **11   |          |
-|                                  | SEPT 2024**            |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/596b26ed-7b7a-4fa9-9f1f-79fbefed9a13)
 
 # SYSADM1 -- Managing Services in Linux
 
-# Requirement: 
+## Requirement: 
 
 -   A virtual machine running Linux
+> ![image](https://github.com/user-attachments/assets/a6d5c181-545e-4941-b646-74252f2906ae)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image2.png){width="4.135416666666667in"
-height="1.8020833333333333in"}
 
 Complete this lab as follows:
 
@@ -30,77 +15,57 @@ Complete this lab as follows:
 
 List down active and inactive services in the table below. Provide five
 (5) services for each column.
-
-  -----------------------------------------------------------------------
-  **Active**                             **Inactive**
-  -------------------------------------- --------------------------------
-  alsa-utils                             anarcon
-
-  cups                                   bluetooth
-
-  dbus                                   cryptdisks
-
-  openvpn                                plymouth
-
-  sysstat                                speech-=dispatcher
-  -----------------------------------------------------------------------
+> ![image](https://github.com/user-attachments/assets/bcd1ada0-05ea-4245-9257-1db3b445cde6)
 
 SS:
+> ![image](https://github.com/user-attachments/assets/ba481396-c816-4283-bbb5-b2a18e40cc7c)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image3.png){width="6.693378171478566in"
-height="6.016037839020123in"}
+--------------------------------------------------------------------------------------------
 
 2.  Start the Bluetooth service using the systemctl command.
-
 Ex. sudo systemctl start httpd
+SS:
+> ![image](https://github.com/user-attachments/assets/26fb8280-0e7f-4ca8-9aeb-d1635ab4f1fd)
+> ![image](https://github.com/user-attachments/assets/25165e4e-b48e-4676-995a-49c6426a6dbe)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image4.png){width="4.359946412948381in"
-height="1.1875in"}
-
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image5.png){width="6.207677165354331in"
-height="0.9936209536307962in"}
+--------------------------------------------------------------------------------------------
 
 3.  Check the status of the Bluetooth service. What is its status?
-
 ***The status is Active.***
-
 SS:
+> ![image](https://github.com/user-attachments/assets/4a8c91e5-edaa-423c-80d3-655f66a0494c)
+> ![image](https://github.com/user-attachments/assets/26d20766-77b4-476d-b5d2-c872f2c768cd)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image6.png){width="5.858442694663167in"
-height="5.017649825021873in"}
-
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image7.png){width="6.356969597550306in"
-height="4.829136045494313in"}
+--------------------------------------------------------------------------------------------
 
 4.  Check the status of the cups services. Since when was it running?
-
 ***It was already active and running when I issued the service
 --status-all command at the beginning.***
-
 SS:
+> ![image](https://github.com/user-attachments/assets/ab2e19a4-f12e-473d-8647-f4e4d2feae9a)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image8.png){width="6.077567804024497in"
-height="5.7009853455818025in"}
+--------------------------------------------------------------------------------------------
 
 5.  Stop cups services.
+SS:
+> ![image](https://github.com/user-attachments/assets/348ad973-9fda-4856-b359-9ef069eb9af3)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image9.png){width="6.725554461942258in"
-height="0.6719575678040245in"}
+--------------------------------------------------------------------------------------------
 
 6.  Verify if the service was stopped.
+SS:
+> ![image](https://github.com/user-attachments/assets/aad46382-8f10-4f1f-b20d-4f5b33496277)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image10.png){width="6.594395231846019in"
-height="5.901002843394576in"}
+--------------------------------------------------------------------------------------------
 
 7.  Restart the cups services
+SS:
+> ![image](https://github.com/user-attachments/assets/b597207f-00af-42d2-b93b-1558209941e5)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image11.png){width="4.344355861767279in"
-height="0.28128937007874016in"}
+--------------------------------------------------------------------------------------------
 
 8.  Verify if the service was restarted.
+SS:
+> ![image](https://github.com/user-attachments/assets/c0511937-e547-4fa7-9a07-5f7e46917d9b)
+> ![image](https://github.com/user-attachments/assets/c5ec2b64-bd4c-4db9-ae30-978848b4e229)
 
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image12.png){width="6.329646762904637in"
-height="5.71615813648294in"}
-
-![](vertopal_2f16a6e27ead41fbbf2f2fe65d4f390d/media/image13.png){width="6.245592738407699in"
-height="2.59168416447944in"}
