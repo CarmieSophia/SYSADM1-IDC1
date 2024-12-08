@@ -2,53 +2,43 @@
 
 > ## **Table of Contents**
 ### **First Grading** 
-| Name of Activity | Date | Score | Activity Link |
-| --- | --- | --- | --- |
-| FG_Quiz 1 |  |  |  |
-| FG_Quiz 2 |  |  |  |
-| FG_Quiz 3 |  |  |  |
-| FG Other Activities |  |  |  |
-| FGE_LW1 Creating File System |  |  |  |
-| FGE_LW3 Managing Services in Windows |  |  |  |
-| FGE_LW4 Managing Services in Linux |  |  |  |
-| First Grading Exam Lecture|  |  |  |
-| First Grading Exam Laboratory|  |  |  |
-| M_Quiz 1 |  |  |  |
-| M_Quiz 2 |  |  |  |
-| M_Quiz 3 |  |  |  |
+| Name of Activity | Date | Activity Link |
+| --- | --- | --- | 
+| FG_Quiz 1 | 21/08/2024 |  |  
+| FG_Quiz 2 | 10/09/2024 |  |  
+| FG_Linux VS Windows | 04/09/2024 |  |  
+| FG_Evolution of SYSAD | 21/08/2024 |  |  
+| FGE_LW1 Creating File Systems | 21/08/2024 |  |  
+| FGE_LW3 Managing Services in Windows | 28/08/2024 |  |  
+| FGE_LW4 Managing Services in Linux | 11/09/2024 |  |  
+| First Grading Exam | 17/09/2024 |  |  
 
 
 ### **Midterms** 
-| Name of Activity | Date | Score | Activity Link |
-| --- | --- | --- | --- |
-| FG_Quiz 1 |  |  |  |
-| FG_Quiz 2 |  |  |  |
-| FG_Quiz 3 |  |  |  |
-| FG Other Activities |  |  |  |
-| FGE_LW1 Creating File System |  |  |  |
-| FGE_LW3 Managing Services in Windows |  |  |  |
-| FGE_LW4 Managing Services in Linux |  |  |  |
-| First Grading Exam Lecture|  |  |  |
-| First Grading Exam Laboratory|  |  |  |
-| M_Quiz 1 |  |  |  |
-| M_Quiz 2 |  |  |  |
-| M_Quiz 3 |  |  |  |
+| Name of Activity | Date | Activity Link |
+| --- | --- | --- |
+| MT_EULA | 01/10/2024 |  |  
+| MT_Scavenger Hunt |  |  |  
+| MT_Lab Research 1 | 25/09/2024 |  |  
+| MT_LW1 | 25/09/2024 |  |  
+| MT_LW2 | 16/10/2024 |  |  
+| MT_Exam | 29/10/2024 |  |  
 
 ### **Finals** 
-| Name of Activity | Date | Score | Activity Link |
-| --- | --- | --- | --- |
-| FG_Quiz 1 |  |  |  |
-| FG_Quiz 2 |  |  |  |
-| FG_Quiz 3 |  |  |  |
-| FG Other Activities |  |  |  |
-| FGE_LW1 Creating File System |  |  |  |
-| FGE_LW3 Managing Services in Windows |  |  |  |
-| FGE_LW4 Managing Services in Linux |  |  |  |
-| First Grading Exam Lecture|  |  |  |
-| First Grading Exam Laboratory|  |  |  |
-| M_Quiz 1 |  |  |  |
-| M_Quiz 2 |  |  |  |
-| M_Quiz 3 |  |  |  |
+| Name of Activity | Date | Activity Link |
+| --- | --- | --- |
+| FG_Quiz 1 |  |  |  
+| FG_Quiz 2 |  |  | 
+| FG_Quiz 3 |  |  |  
+| FG Other Activities |  |  |  
+| FGE_LW1 Creating File System |  |  |  
+| FGE_LW3 Managing Services in Windows |  |  |  
+| FGE_LW4 Managing Services in Linux |  |  |  
+| First Grading Exam Lecture|  |  |  
+| First Grading Exam Laboratory|  |  |  
+| M_Quiz 1 |  |  |  
+| M_Quiz 2 |  |  |  
+| M_Quiz 3 |  |  |  
 
 
 > ## **Course Reflection**
