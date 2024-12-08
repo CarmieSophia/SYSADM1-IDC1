@@ -1,2 +1,1 @@
-![](vertopal_eb78506327084bd49953caaa005d1ddf/media/image1.png){width="6.375in"
-height="10.11111111111111in"}
+![image](https://github.com/user-attachments/assets/c7db7c2d-56b7-4271-ac22-c75c78676e2b)
