@@ -1,19 +1,5 @@
-+------------------------------+----------------------------+----------+
-| ![](vertopal_a9e0cedc        |                            |          |
-| 4dac45a18d821777c0eecb03/med |                            |          |
-| ia/image1.png){width="2.4in" |                            |          |
-| he                           |                            |          |
-| ight="0.5881944444444445in"} |                            |          |
-|                              |                            |          |
-| SCHOOL OF INFORMATION AND    |                            |          |
-| TECHNOLOGY                   |                            |          |
-+------------------------------+----------------------------+----------+
-| NAME: OLIVAS, CARMIE SOPHIA  | DATE PERFORMED: 16 OCT     |          |
-| N.                           | 2024                       |          |
-+------------------------------+----------------------------+----------+
-| Section: IDC1                | DATE SUBMITTED: 16 OCT     |          |
-|                              | 2024                       |          |
-+------------------------------+----------------------------+----------+
+![image](https://github.com/user-attachments/assets/dd4d3510-9aa3-4340-bf42-2cb1765558a8)
+
 
 # SYSADM1 -- Web Server Monitoring
 
@@ -58,8 +44,8 @@
 3.  Analyze the provided web server statistics to determine what is
     being asked for below.
 
-![](vertopal_a9e0cedc4dac45a18d821777c0eecb03/media/image2.png){width="7.027083333333334in"
-height="1.9631944444444445in"}
+![image](https://github.com/user-attachments/assets/3f7b3be0-5e03-42fb-a36f-ac508a17f8b4)
+
 
 A.  Average response time: 738.89 ms
 
@@ -93,23 +79,5 @@ E.  Common error types: 404 Not Found (1 instance)
 
 **Grading Rubric**
 
-  --------------------------------------------------------------------------------
-  Criteria         Points   Description
-  ---------------- -------- ------------------------------------------------------
-  Monitoring       10       Demonstrates understanding of various methods for
-  methods                   monitoring web server statistics (e.g., using tools,
-                            server logs, performance counters).
+![image](https://github.com/user-attachments/assets/2634e0f9-0391-448b-879c-e2ef4e68e3cd)
 
-  Key Metrics      10       Identifies the correct key metrics to monitor (e.g.,
-                            response time, traffic, error rates, resource usage).
-
-  Data Analysis    30       Accurately calculates average response time, requests
-                            per second, memory usage, error rate, and identifies
-                            common error types.
-
-  Issues           10       Accurately identifies potential issues based on the
-  Identification            analyzed statistics (e.g., high error rates, resource
-                            constraints).
-
-  Total            /60      
-  --------------------------------------------------------------------------------
