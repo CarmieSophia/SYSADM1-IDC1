@@ -37,61 +37,30 @@
 
  # **Course Reflection**
 
-> **What were your initial expectations for the course? Did the course meet,
-exceed, or fall short of these expectations?**
+**What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?**
 
-  -----------------------------------------------------------------------
+> Before starting the course, I expected to learn about managing IT systems and understanding how different platforms like Linux and Windows work. The course exceeded my expectations because it didn’t just teach the basics—it also covered real-world tools and methods, like Git and Kerberos, which are widely used in the industry.
 
-  -----------------------------------------------------------------------
 
-> **What were the main topics or concepts covered in the course? How did
-these topics contribute to your understanding of the subject matter?**
+**What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?**
+> The course explored file system management, service management on Linux and Windows, setting up web servers, version control with Git, and understanding Kerberos for security. These topics gave me a solid foundation in system administration. They also helped me understand how these tools are critical for maintaining efficient, secure IT systems in the real world.
 
-  -----------------------------------------------------------------------
+**Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course material?**
+> The hands-on labs and projects were the most effective. For example, creating file systems and configuring services made the concepts practical and easy to remember. I also found that reviewing the activities step-by-step after class helped me reinforce what I had learned.
 
-  -----------------------------------------------------------------------
+**Were there any particular assignments, projects, or activities that significantly enhanced your learning experience? Why were they effective?**
+>The "Managing Services in Linux" lab was especially impactful. It required me to use Linux commands to configure and troubleshoot services, which is a crucial skill for system administrators. This activity was effective because it challenged me to apply theoretical knowledge to real-world scenarios.
 
-> **Reflecting on your learning process, what were the most effective
-strategies or techniques that helped you grasp and retain the course
-material?**
+**Did you encounter any challenges or difficulties during the course? Howdid you overcome these obstacles, and what did you learn from them?**
+>One of the biggest challenges was understanding the Kerberos protocol, as it involved technical concepts about authentication and security. To overcome this, I watched tutorials, practiced setting it up, and asked for clarification during discussions. This experience taught me to use multiple resources and not to give up when a topic feels overwhelming.
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-> **Were there any particular assignments, projects, or activities that
-significantly enhanced your learning experience? Why were they
-effective?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-> **Did you encounter any challenges or difficulties during the course? How
-did you overcome these obstacles, and what did you learn from them?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-> **Did the course encourage critical thinking and analysis? How did it
-promote higher-order thinking skills, such as problem-solving or
+**Did the course encourage critical thinking and analysis? How did it promote higher-order thinking skills, such as problem-solving or
 decision-making?**
+> Absolutely. Activities like setting up web servers and troubleshooting errors required critical thinking. For instance, during the web server activity, I had to analyze configuration files to find and fix errors. These tasks taught me how to approach IT problems logically and efficiently.
 
-  -----------------------------------------------------------------------
+**Reflecting on your personal growth, what new knowledge, skills, or perspectives did you gain from this course?**
+> I gained technical skills like managing services on Linux and Windows, setting up secure systems, and using Git for version control. More importantly, I learned how to think like a system administrator—focusing on efficiency, security, and reliability when working with IT systems.
 
-  -----------------------------------------------------------------------
-
-> **Reflecting on your personal growth, what new knowledge, skills, or
-perspectives did you gain from this course?**
-
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-> **How do you plan to apply what you have learned in this course to your
-future studies, career, or personal life?
-**
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+**How do you plan to apply what you have learned in this course to your
+future studies, career, or personal life? **
+> The knowledge from this course will be invaluable in future IT projects and jobs. For example, the skills in configuring and managing servers will help me in internships or entry-level IT roles. Additionally, tools like Git will be useful for collaboration in team projects during my studies and career.
